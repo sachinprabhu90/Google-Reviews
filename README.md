@@ -1,7 +1,7 @@
 # Google Reviews Scraping for Social Listening Tool
 
 ###Objective
--  To understand the customer sentiment regarding the Reliance Trends Stores among Google Local Guides and Reviewers.
+-  To understand the customer sentiment regarding the Businesses among Google Local Guides and Reviewers.
    Reviews may be related to VM, merchandise, staff, parking etc.
 
 ###Methodology
